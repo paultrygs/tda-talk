@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "tda-talk"
+version = "0.1.0"
+description = ""
+authors = ["Paul Trygsland <paul.trygsland@bouvet.no>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyterlab = "^4.1.4"
+cython = "^3.0.9"
+ripser = "^0.6.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

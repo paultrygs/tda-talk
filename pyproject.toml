@@ -10,6 +10,7 @@ python = "^3.12"
 jupyterlab = "^4.1.4"
 cython = "^3.0.9"
 ripser = "^0.6.8"
+ipywidgets = "^8.1.2"
 
 
 [build-system]
